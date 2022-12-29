@@ -1,6 +1,6 @@
 {
-    "name": "kejojedi/crudify",
-    "description": "Laravel 7 CRUD app scaffolding & generator.",
+    "name": "eesien/modified-datatable-kejojedi",
+    "description": "Modified Laravel 9 from Laravel 7 CRUD app scaffolding & generator.",
     "homepage": "https://github.com/kejojedi/crudify",
     "license": "MIT",
     "authors": [
